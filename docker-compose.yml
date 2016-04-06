@@ -3,7 +3,7 @@ version: '2'
 services:
 
   yoothubfrontend:
-    image: tetius/yoothubfrontend
+    image: tetius/yoothubui
     ports:
     - "80:80"
     environment:
